@@ -1,4 +1,4 @@
-## Hi there 👋
+# Finished projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Buriyone&repo=java-explore-with-me)](https://github.com/Buriyone/java-explore-with-me)
 
