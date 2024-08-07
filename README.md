@@ -2,6 +2,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Buriyone&repo=java-explore-with-me)](https://github.com/Buriyone/java-explore-with-me)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Buriyone&repo=java-shareit)](https://github.com/Buriyone/java-shareit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Buriyone&repo=java-kanban)](https://github.com/Buriyone/java-kanban)
+
+# Group projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elite-tea&repo=java-filmorate)](https://github.com/Elite-tea/java-filmorate)
 
 
 
