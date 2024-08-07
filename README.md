@@ -7,6 +7,8 @@
 # Group projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elite-tea&repo=java-filmorate)](https://github.com/Elite-tea/java-filmorate)
 
+# GitHub profile trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Buriyone)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
